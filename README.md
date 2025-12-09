@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">I'm Menna, an AI enthusiast & ML learner who loves problem solving and building smart things (even if they break sometimes 😅).</p>
+<p align="left">
+I'm Menna — an AI enthusiast and problem solver who codes, experiments, and breaks things until they finally work 😅  
+I enjoy building ML models, exploring deep learning, and pushing myself in competitive programming & algorithms.
+</p>
 
 ###
 
@@ -11,10 +14,11 @@
 ###
 
 <p align="left">
-✨ Creating bugs since I wrote my first "Hello World"<br>
-📚 I'm currently learning: Machine Learning, Deep Learning, NLP & Computer Vision<br>
-🎯 Goals: Become an AI Engineer & build impactful ML projects<br>
-🎲 Fun fact: I actually enjoy debugging... after crying for 10 minutes 💀
+✨ Started my coding journey with C++ and a bunch of bugs<br>
+📚 Currently learning: Machine Learning, Deep Learning, NLP & Computer Vision<br>
+💻 I practice problem-solving using C++ & Python<br>
+🎯 Goal: Become an AI Engineer & build smart, impactful systems<br>
+🎲 Fun fact: Debugging is 50% science, 50% vibes 💀
 </p>
 
 ###
@@ -24,31 +28,33 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  <img width="12" />
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="python logo"/>
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"/>
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cpp logo"/>
+  <img width="10" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
-  <img width="12" />
+  <!-- ML Tools -->
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="45" alt="tensorflow logo"/>
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45" alt="pytorch logo"/>
+  <img width="10" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
-  <img width="12" />
+  <!-- Data / Math -->
+  <img src="https://skillicons.dev/icons?i=numpy" height="45" alt="numpy logo"/>
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="45" alt="pandas logo"/>
+  <img width="10" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img width="12" />
+  <!-- Notebooks -->
+  <img src="https://skillicons.dev/icons?i=jupyter" height="45" alt="jupyter logo"/>
+  <img width="10" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="sklearn logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"/>
 </div>
 
 ###
