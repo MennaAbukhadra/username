@@ -34,11 +34,7 @@ I enjoy building ML models, exploring deep learning, and pushing myself in compe
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp"/>
   <img width="10"/>
 
-  <!-- ML / Data / Tools -->
-  <img src="https://skillicons.dev/icons?i=jupyter" height="50" alt="jupyter"/>
-  <img width="10"/>
-
-  <img src="https://skillicons.dev/icons?i=kaggle" height="50" alt="kaggle"/>
+  <img src="https://kiran-parte.github.io/aiforall/assets/images/blog/jupyter.jpg" height="50" alt="jupyter"/>
   <img width="10"/>
 
   <img src="https://skillicons.dev/icons?i=codeforces" height="50" alt="codeforces"/>
@@ -48,8 +44,7 @@ I enjoy building ML models, exploring deep learning, and pushing myself in compe
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git"/>
   <img width="10"/>
 
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github"/>
-  <img width="10"/>
+
 
 </div>
 
